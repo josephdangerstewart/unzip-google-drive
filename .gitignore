@@ -133,3 +133,4 @@ dist
 input/
 output/
 temp-zip/
+conflicts/
