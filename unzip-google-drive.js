@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const extract = require('extract-zip');
 const fs = require('fs/promises');
 const fsSync = require('fs');

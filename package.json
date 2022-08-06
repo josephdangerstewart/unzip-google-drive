@@ -1,8 +1,9 @@
 {
-  "name": "organize-drive-dump",
+  "name": "unzip-google-drive",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "./unzip-google-drive.js",
+  "bin":  "./unzip-google-drive.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
